@@ -15,10 +15,7 @@ This project demonstrates the use of AWS fargate to deploy containers and pod in
  - Create a namespace selected in the Fargate profile on the terminal.
 
 
-
-## **Feature**
-
-### **Diagrammatic Presentation**
+## **Diagrammatic Presentation**
  - Create a role for EKS service to use Fargate.
    ![image](https://github.com/user-attachments/assets/e4e58cf2-b8f7-46b1-b750-d6d8abd7e397)
  - Name the role and create the role.
