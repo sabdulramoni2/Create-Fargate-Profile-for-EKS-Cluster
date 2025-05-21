@@ -33,6 +33,19 @@ This project demonstrates the use of AWS fargate to deploy containers and pod in
    ![image](https://github.com/user-attachments/assets/efcb1260-c01d-4a18-94af-9fbba350f779)
 
 
+   ![image](https://github.com/user-attachments/assets/ca0e987b-e452-4933-9bf5-b67ac80d9124)
+
+
+
+   ![image](https://github.com/user-attachments/assets/5d8b5647-a742-4b3e-840f-9be0c2008ffd)
+
+
+   ![image](https://github.com/user-attachments/assets/d2ca666d-498e-44d4-be7b-aa27a628f7bd)
+
+
+
+
+
 
  
 
